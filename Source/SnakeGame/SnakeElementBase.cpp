@@ -2,7 +2,7 @@
 
 
 #include "SnakeElementBase.h"
-#include "D:\Unreal Engine\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\StaticMeshComponent.h"
+#include "Engine\Classes\Components\StaticMeshComponent.h"
 
 // Sets default values
 ASnakeElementBase::ASnakeElementBase()

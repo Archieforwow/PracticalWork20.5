@@ -2,9 +2,9 @@
 
 
 #include "PlayerPawnBase.h"
-#include "D:\Unreal Engine\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera\CameraComponent.h"
+#include "Engine\Classes\Camera\CameraComponent.h"
 #include "SnakeBase.h"
-#include "D:\Unreal Engine\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components\InputComponent.h"
+#include "Engine\Classes\Components\InputComponent.h"
 
 // Sets default values
 APlayerPawnBase::APlayerPawnBase()
